@@ -1,0 +1,31 @@
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\bin\Debug\Master in CS.exe
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\bin\Debug\Master in CS.pdb
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\bin\Debug\Master in CS.xml
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.Form1.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.Resources.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master in CS.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master in CS.exe
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master in CS.xml
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master in CS.pdb
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.Learn.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.Quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.ip_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.op_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.sd_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.sw_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.word_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.Excel_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.PowerP_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.Access_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.LoginForm.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.windows_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.linux_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.AboutUs.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.ContactUS.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.web.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.feedback.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.cpp_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.c_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.java_quiz.resources
+C:\Users\ASUS\Desktop\Master in CS\Master in CS\obj\Debug\Master_in_CS.py_quiz.resources
